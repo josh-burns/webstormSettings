@@ -4,13 +4,13 @@
     <property name="created">2022-08-13T14:37:00</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-13T14:42:38</property>
+    <property name="modified">2022-08-13T17:05:13</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
@@ -1468,7 +1468,6 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1476,9 +1475,7 @@
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2829,10 +2826,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="425b67" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcc00" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
