@@ -1,0 +1,29 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="mappings">
+      <list>
+        <Mapping>
+          <option name="gitlabProjectId" value="26770230" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="image-management-api" />
+          <option name="projectPath" value="dunelm/product/backend-services/image-management-api" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/image-management-api.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="32734319" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="mfe-pdp" />
+          <option name="projectPath" value="dunelm/product/frontend/mfe-pdp" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-pdp.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="37282015" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="mfe-header" />
+          <option name="projectPath" value="dunelm/product/frontend/mfe-header" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-header.git" />
+        </Mapping>
+      </list>
+    </option>
+  </component>
+</application>
