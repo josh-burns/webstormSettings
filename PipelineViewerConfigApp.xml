@@ -1,5 +1,10 @@
 <application>
   <component name="PipelineViewerConfigApp">
+    <option name="alwaysMonitorHosts">
+      <set>
+        <option value="https://gitlab.com" />
+      </set>
+    </option>
     <option name="mappings">
       <list>
         <Mapping>
@@ -22,6 +27,13 @@
           <option name="projectName" value="mfe-header" />
           <option name="projectPath" value="dunelm/product/frontend/mfe-header" />
           <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-header.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="31167186" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="reviews-service" />
+          <option name="projectPath" value="dunelm/product/backend-services/reviews-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/reviews-service.git" />
         </Mapping>
       </list>
     </option>
