@@ -35,6 +35,13 @@
           <option name="projectPath" value="dunelm/product/backend-services/reviews-service" />
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/reviews-service.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="33317853" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="pricing-service" />
+          <option name="projectPath" value="dunelm/product/backend-services/pricing-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/pricing-service.git" />
+        </Mapping>
       </list>
     </option>
   </component>
