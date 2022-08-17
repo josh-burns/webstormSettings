@@ -49,6 +49,13 @@
           <option name="projectPath" value="dunelm/product/backend-services/feeds-service" />
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/feeds-service.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="30738472" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="akeneo-utilities" />
+          <option name="projectPath" value="dunelm/product/backend-services/akeneo-utilities" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/akeneo-utilities.git" />
+        </Mapping>
       </list>
     </option>
   </component>
