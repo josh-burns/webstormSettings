@@ -175,6 +175,13 @@
           <option name="projectPath" value="dunelm/product/frontend/telescope-chrome-extension" />
           <option name="remote" value="git@gitlab.com:dunelm/product/frontend/telescope-chrome-extension.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="29966052" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="product-service-v2" />
+          <option name="projectPath" value="dunelm/product/backend-services/product-service-v2" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/product-service-v2.git" />
+        </Mapping>
       </list>
     </option>
   </component>
