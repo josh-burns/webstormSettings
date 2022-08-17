@@ -154,6 +154,27 @@
           <option name="projectPath" value="dunelm/product/backend-services/carrier-integration" />
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/carrier-integration.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="37545021" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="mfe-footer" />
+          <option name="projectPath" value="dunelm/product/frontend/mfe-footer" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-footer.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="29452407" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="mfe-web-aggregator" />
+          <option name="projectPath" value="dunelm/product/frontend/mfe-web-aggregator" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-web-aggregator.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="29419033" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="telescope-chrome-extension" />
+          <option name="projectPath" value="dunelm/product/frontend/telescope-chrome-extension" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/telescope-chrome-extension.git" />
+        </Mapping>
       </list>
     </option>
   </component>
