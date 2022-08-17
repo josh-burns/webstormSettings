@@ -119,6 +119,41 @@
           <option name="projectPath" value="dunelm/product/frontend/dunelm-web" />
           <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-web.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="26449642" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="dunelm-web-documentation" />
+          <option name="projectPath" value="dunelm/product/frontend/dunelm-web-documentation" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-web-documentation.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="21896961" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="email-capture-api " />
+          <option name="projectPath" value="dunelm/product/backend-services/email-capture-api" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/email-capture-api.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="33593049" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="customers-eventbus-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/customers-eventbus-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/customers-eventbus-aws-stacks.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="21294937" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="store-calendar" />
+          <option name="projectPath" value="dunelm/product/backend-services/store-calendar" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/store-calendar.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="29425819" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="carrier-integration" />
+          <option name="projectPath" value="dunelm/product/backend-services/carrier-integration" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/carrier-integration.git" />
+        </Mapping>
       </list>
     </option>
   </component>
