@@ -56,6 +56,69 @@
           <option name="projectPath" value="dunelm/product/backend-services/akeneo-utilities" />
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/akeneo-utilities.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="25880511" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="dunelm-smoke-tests" />
+          <option name="projectPath" value="dunelm/product/frontend/dunelm-smoke-tests" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-smoke-tests.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="22403499" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="dunelm-smoke-playwright" />
+          <option name="projectPath" value="dunelm/product/frontend/dunelm-smoke-playwright" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-smoke-playwright.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="36603317" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="asps-proxy" />
+          <option name="projectPath" value="dunelm/product/backend-services/asps-proxy" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/asps-proxy.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="15945390" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="asps-stock-loader" />
+          <option name="projectPath" value="dunelm/product/backend-services/asps-stock-loader" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/asps-stock-loader.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="21031534" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="Business Web Components" />
+          <option name="projectPath" value="dunelm/product/frontend/business-web-components" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/business-web-components.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="15404298" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="cms-store-locator" />
+          <option name="projectPath" value="dunelm/product/backend-services/cms-store-locator" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/cms-store-locator.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="33509953" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="ctms" />
+          <option name="projectPath" value="dunelm/product/backend-services/ctms" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/ctms.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="28838467" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="dunelm-end-to-end" />
+          <option name="projectPath" value="dunelm/product/testing/dunelm-end-to-end" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/testing/dunelm-end-to-end.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="16295749" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="dunelm-web" />
+          <option name="projectPath" value="dunelm/product/frontend/dunelm-web" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-web.git" />
+        </Mapping>
       </list>
     </option>
   </component>
