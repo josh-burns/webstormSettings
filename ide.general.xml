@@ -1,6 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="autoSaveIfInactive" value="true" />
     <option name="confirmOpenNewProject2" value="1" />
     <option name="defaultProjectDirectory" value="$USER_HOME$/codeWorkspace" />
     <option name="inactiveTimeout" value="5" />
