@@ -189,6 +189,13 @@
           <option name="projectPath" value="dunelm/product/backend-services/dependabot" />
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/dependabot.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="32799884" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="content-delivery-application-v2" />
+          <option name="projectPath" value="dunelm/product/backend-services/content-delivery-application-v2" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/content-delivery-application-v2.git" />
+        </Mapping>
       </list>
     </option>
   </component>
