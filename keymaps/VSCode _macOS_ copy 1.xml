@@ -4,6 +4,14 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="Force touch" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="HideSideWindows" />
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta e" />
     <keyboard-shortcut first-keystroke="shift escape" />
@@ -12,4 +20,5 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="shift meta escape" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
