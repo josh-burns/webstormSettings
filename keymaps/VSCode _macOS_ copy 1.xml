@@ -12,6 +12,7 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="HideSideWindows" />
+  <action id="NextWindow" />
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta e" />
     <keyboard-shortcut first-keystroke="shift escape" />
@@ -19,6 +20,10 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="shift meta escape" />
+  </action>
+  <action id="Terminal.SwitchFocusToEditor">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
