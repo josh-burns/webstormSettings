@@ -203,6 +203,13 @@
           <option name="projectPath" value="dunelm/product/backend-services/sas-v2" />
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sas-v2.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="17465904" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="tf-fastly" />
+          <option name="projectPath" value="dunelm/platform-engineering/tf-fastly" />
+          <option name="remote" value="git@gitlab.com:dunelm/platform-engineering/tf-fastly.git" />
+        </Mapping>
       </list>
     </option>
   </component>
