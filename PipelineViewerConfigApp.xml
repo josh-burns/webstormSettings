@@ -13,46 +13,11 @@
     <option name="mappings">
       <list>
         <Mapping>
-          <option name="gitlabProjectId" value="26770230" />
+          <option name="gitlabProjectId" value="17465904" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="image-management-api" />
-          <option name="projectPath" value="dunelm/product/backend-services/image-management-api" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/image-management-api.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="32734319" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="mfe-pdp" />
-          <option name="projectPath" value="dunelm/product/frontend/mfe-pdp" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-pdp.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="37282015" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="mfe-header" />
-          <option name="projectPath" value="dunelm/product/frontend/mfe-header" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-header.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="31167186" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="reviews-service" />
-          <option name="projectPath" value="dunelm/product/backend-services/reviews-service" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/reviews-service.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="33317853" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="pricing-service" />
-          <option name="projectPath" value="dunelm/product/backend-services/pricing-service" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/pricing-service.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="30190768" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="feeds-service" />
-          <option name="projectPath" value="dunelm/product/backend-services/feeds-service" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/feeds-service.git" />
+          <option name="projectName" value="tf-fastly" />
+          <option name="projectPath" value="dunelm/platform-engineering/tf-fastly" />
+          <option name="remote" value="git@gitlab.com:dunelm/platform-engineering/tf-fastly.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="30738472" />
@@ -62,18 +27,25 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/akeneo-utilities.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="25880511" />
+          <option name="gitlabProjectId" value="24812094" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="dunelm-smoke-tests" />
-          <option name="projectPath" value="dunelm/product/frontend/dunelm-smoke-tests" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-smoke-tests.git" />
+          <option name="projectName" value="algolia-product-aggregator" />
+          <option name="projectPath" value="dunelm/product/backend-services/algolia-product-aggregator" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/algolia-product-aggregator.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="22403499" />
+          <option name="gitlabProjectId" value="33955344" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="dunelm-smoke-playwright" />
-          <option name="projectPath" value="dunelm/product/frontend/dunelm-smoke-playwright" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-smoke-playwright.git" />
+          <option name="projectName" value="aptean-file-sftp" />
+          <option name="projectPath" value="dunelm/product/backend-services/aptean-file-sftp" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/aptean-file-sftp.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="33768735" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="asps-price-loader" />
+          <option name="projectPath" value="dunelm/product/backend-services/asps-price-loader" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/asps-price-loader.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="36603317" />
@@ -90,130 +62,11 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/asps-stock-loader.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="21031534" />
+          <option name="gitlabProjectId" value="29778127" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="Business Web Components" />
-          <option name="projectPath" value="dunelm/product/frontend/business-web-components" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/business-web-components.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="15404298" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="cms-store-locator" />
-          <option name="projectPath" value="dunelm/product/backend-services/cms-store-locator" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/cms-store-locator.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="33509953" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="ctms" />
-          <option name="projectPath" value="dunelm/product/backend-services/ctms" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/ctms.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="28838467" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="dunelm-end-to-end" />
-          <option name="projectPath" value="dunelm/product/testing/dunelm-end-to-end" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/testing/dunelm-end-to-end.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="16295749" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="dunelm-web" />
-          <option name="projectPath" value="dunelm/product/frontend/dunelm-web" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-web.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="26449642" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="dunelm-web-documentation" />
-          <option name="projectPath" value="dunelm/product/frontend/dunelm-web-documentation" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-web-documentation.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="21896961" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="email-capture-api " />
-          <option name="projectPath" value="dunelm/product/backend-services/email-capture-api" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/email-capture-api.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="33593049" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="customers-eventbus-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/customers-eventbus-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/customers-eventbus-aws-stacks.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="21294937" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="store-calendar" />
-          <option name="projectPath" value="dunelm/product/backend-services/store-calendar" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/store-calendar.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="29425819" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="carrier-integration" />
-          <option name="projectPath" value="dunelm/product/backend-services/carrier-integration" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/carrier-integration.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="37545021" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="mfe-footer" />
-          <option name="projectPath" value="dunelm/product/frontend/mfe-footer" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-footer.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="29452407" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="mfe-web-aggregator" />
-          <option name="projectPath" value="dunelm/product/frontend/mfe-web-aggregator" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-web-aggregator.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="29419033" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="telescope-chrome-extension" />
-          <option name="projectPath" value="dunelm/product/frontend/telescope-chrome-extension" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/telescope-chrome-extension.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="29966052" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="product-service-v2" />
-          <option name="projectPath" value="dunelm/product/backend-services/product-service-v2" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/product-service-v2.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="38689234" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="Dependabot" />
-          <option name="projectPath" value="dunelm/product/backend-services/dependabot" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/dependabot.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="32799884" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="content-delivery-application-v2" />
-          <option name="projectPath" value="dunelm/product/backend-services/content-delivery-application-v2" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/content-delivery-application-v2.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="32271228" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="SAS v2" />
-          <option name="projectPath" value="dunelm/product/backend-services/sas-v2" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sas-v2.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="17465904" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="tf-fastly" />
-          <option name="projectPath" value="dunelm/platform-engineering/tf-fastly" />
-          <option name="remote" value="git@gitlab.com:dunelm/platform-engineering/tf-fastly.git" />
+          <option name="projectName" value="atlas-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/atlas-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/atlas-aws-stacks.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="15246690" />
@@ -223,39 +76,151 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/basket-microservice.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="31144859" />
+          <option name="gitlabProjectId" value="19027982" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="basket-service-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/basket-service-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/basket-service-aws-stacks.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="26792964" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="carrier-events-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/carrier-events-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/carrier-events-aws-stacks.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="29425819" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="carrier-integration" />
+          <option name="projectPath" value="dunelm/product/backend-services/carrier-integration" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/carrier-integration.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="27254207" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="carrier-management" />
+          <option name="projectPath" value="dunelm/product/backend-services/carrier-management" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/carrier-management.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="15247640" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="checkout-microservice" />
+          <option name="projectPath" value="dunelm/product/backend-services/checkout-microservice" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/checkout-microservice.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="18847284" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="checkout-service-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/checkout-service-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/checkout-service-aws-stacks.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="15404298" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="cms-store-locator" />
+          <option name="projectPath" value="dunelm/product/backend-services/cms-store-locator" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/cms-store-locator.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="25361936" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="communication-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/communication-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/communication-aws-stacks.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="21197142" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="consolidation-service" />
+          <option name="projectPath" value="dunelm/product/backend-services/consolidation-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/consolidation-service.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="32799884" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="content-delivery-application-v2" />
+          <option name="projectPath" value="dunelm/product/backend-services/content-delivery-application-v2" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/content-delivery-application-v2.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="33509953" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="ctms" />
+          <option name="projectPath" value="dunelm/product/backend-services/ctms" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/ctms.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="27624758" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="customer-details-aggregator-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/customer-details-aggregator-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/customer-details-aggregator-stacks.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="21195743" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="customer-service-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/customer-service-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/customer-service-aws-stacks.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="33593049" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="customers-eventbus-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/customers-eventbus-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/customers-eventbus-aws-stacks.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="30677699" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="Day Of Choice" />
+          <option name="projectPath" value="dunelm/product/backend-services/day-of-choice" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/day-of-choice.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="26800725" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="delivery-promise" />
+          <option name="projectPath" value="dunelm/product/backend-services/delivery-promise" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/delivery-promise.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="38689234" />
           <option name="host" value="https://gitlab.com" />
           <option name="projectName" value="Dependabot" />
-          <option name="projectPath" value="dunelm/product/frontend/mpos/dependabot" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mpos/dependabot.git" />
+          <option name="projectPath" value="dunelm/product/backend-services/dependabot" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/dependabot.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="29096064" />
+          <option name="gitlabProjectId" value="32986839" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="apollo-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/frontend/apollo-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/apollo-aws-stacks.git" />
+          <option name="projectName" value="Dunelm Trees Service" />
+          <option name="projectPath" value="dunelm/product/backend-services/dunelm-trees-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/dunelm-trees-service.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="30292131" />
+          <option name="gitlabProjectId" value="31574849" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="dw-static-poc" />
-          <option name="projectPath" value="dunelm/product/frontend/dw-static-poc" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dw-static-poc.git" />
+          <option name="projectName" value="dunelm-xml-sitemap" />
+          <option name="projectPath" value="dunelm/product/backend-services/dunelm-xml-sitemap" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/dunelm-xml-sitemap.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="22176602" />
+          <option name="gitlabProjectId" value="34612774" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="email-capture-client" />
-          <option name="projectPath" value="dunelm/product/frontend/email-capture-client" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/email-capture-client.git" />
+          <option name="projectName" value="dweb-pipeline-slackbot" />
+          <option name="projectPath" value="dunelm/product/backend-services/dweb-pipeline-slackbot" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/dweb-pipeline-slackbot.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="22176812" />
+          <option name="gitlabProjectId" value="21896961" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="email-capture-module" />
-          <option name="projectPath" value="dunelm/product/frontend/email-capture-module" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/email-capture-module.git" />
+          <option name="projectName" value="email-capture-api " />
+          <option name="projectPath" value="dunelm/product/backend-services/email-capture-api" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/email-capture-api.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="37964651" />
@@ -272,18 +237,25 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/enactor-mapping-service.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="15128454" />
+          <option name="gitlabProjectId" value="29480843" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="content-delivery-application" />
-          <option name="projectPath" value="dunelm/product/frontend/content-delivery-application" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/content-delivery-application.git" />
+          <option name="projectName" value="enactor-pricing-service" />
+          <option name="projectPath" value="dunelm/product/backend-services/enactor-pricing-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/enactor-pricing-service.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="18847284" />
+          <option name="gitlabProjectId" value="29449401" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="checkout-service-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/checkout-service-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/checkout-service-aws-stacks.git" />
+          <option name="projectName" value="etms" />
+          <option name="projectPath" value="dunelm/product/backend-services/etms" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/etms.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="30190768" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="feeds-service" />
+          <option name="projectPath" value="dunelm/product/backend-services/feeds-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/feeds-service.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="25223822" />
@@ -305,55 +277,6 @@
           <option name="projectName" value="fleet-aws-stacks" />
           <option name="projectPath" value="dunelm/product/backend-services/fleet-aws-stacks" />
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/fleet-aws-stacks.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="20221917" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="enactor-pos-automation" />
-          <option name="projectPath" value="dunelm/product/frontend/enactor-pos-automation" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/enactor-pos-automation.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="29480843" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="enactor-pricing-service" />
-          <option name="projectPath" value="dunelm/product/backend-services/enactor-pricing-service" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/enactor-pricing-service.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="27675600" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="engineering-best-practices" />
-          <option name="projectPath" value="dunelm/product/engineering-best-practices" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/engineering-best-practices.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="29449401" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="etms" />
-          <option name="projectPath" value="dunelm/product/backend-services/etms" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/etms.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="17710763" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="health-checker" />
-          <option name="projectPath" value="dunelm/product/backend-services/health-checker" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/health-checker.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="30186122" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="hht-goods-receipt-messaging-service" />
-          <option name="projectPath" value="dunelm/product/backend-services/hht-goods-receipt-messaging-service" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/hht-goods-receipt-messaging-service.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="26703464" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="hht-service-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/hht-service-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/hht-service-aws-stacks.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="30585421" />
@@ -384,11 +307,39 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/guardians-helpers-and-scripts.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="25582689" />
+          <option name="gitlabProjectId" value="17710763" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="mpos-api-gateway-deploy" />
-          <option name="projectPath" value="dunelm/product/mpos-api-gateway-deploy" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/mpos-api-gateway-deploy.git" />
+          <option name="projectName" value="health-checker" />
+          <option name="projectPath" value="dunelm/product/backend-services/health-checker" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/health-checker.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="30186122" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="hht-goods-receipt-messaging-service" />
+          <option name="projectPath" value="dunelm/product/backend-services/hht-goods-receipt-messaging-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/hht-goods-receipt-messaging-service.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="26703464" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="hht-service-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/hht-service-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/hht-service-aws-stacks.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="26770230" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="image-management-api" />
+          <option name="projectPath" value="dunelm/product/backend-services/image-management-api" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/image-management-api.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="28297804" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="m2m-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/m2m-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/m2m-aws-stacks.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="30639504" />
@@ -403,55 +354,6 @@
           <option name="projectName" value="non-enriched-product-service" />
           <option name="projectPath" value="dunelm/product/backend-services/non-enriched-product-service" />
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/non-enriched-product-service.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="26771486" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="image-management-client" />
-          <option name="projectPath" value="dunelm/product/frontend/image-management-client" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/image-management-client.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="28297804" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="m2m-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/m2m-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/m2m-aws-stacks.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="26769261" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="payment-service-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/payment-service-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/payment-service-aws-stacks.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="31534195" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="payments-eventbus-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/payments-eventbus-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/payments-eventbus-aws-stacks.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="32150549" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="phoenix-end-to-end" />
-          <option name="projectPath" value="dunelm/product/testing/phoenix-end-to-end" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/testing/phoenix-end-to-end.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="26480679" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="poc-pattern-library" />
-          <option name="projectPath" value="dunelm/product/frontend/poc-pattern-library" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/poc-pattern-library.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="22863669" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="odin-application" />
-          <option name="projectPath" value="dunelm/product/frontend/odin" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/odin.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="29277708" />
@@ -475,46 +377,25 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/orders-eventbus-aws-stacks.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="19027982" />
+          <option name="gitlabProjectId" value="26769261" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="basket-service-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/basket-service-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/basket-service-aws-stacks.git" />
+          <option name="projectName" value="payment-service-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/payment-service-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/payment-service-aws-stacks.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="31240589" />
+          <option name="gitlabProjectId" value="31534195" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="Production Planning" />
-          <option name="projectPath" value="dunelm/product/production-planning" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/production-planning.git" />
+          <option name="projectName" value="payments-eventbus-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/payments-eventbus-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/payments-eventbus-aws-stacks.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="34612774" />
+          <option name="gitlabProjectId" value="33317853" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="dweb-pipeline-slackbot" />
-          <option name="projectPath" value="dunelm/product/backend-services/dweb-pipeline-slackbot" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/dweb-pipeline-slackbot.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="31458986" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="products-eventbus-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/products-eventbus-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/products-eventbus-aws-stacks.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="26934768" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="promotion-service-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/promotion-service-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/promotion-service-aws-stacks.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="37403291" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="postman-collections" />
-          <option name="projectPath" value="dunelm/product/testing/postman-collections" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/testing/postman-collections.git" />
+          <option name="projectName" value="pricing-service" />
+          <option name="projectPath" value="dunelm/product/backend-services/pricing-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/pricing-service.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="35133148" />
@@ -531,46 +412,137 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/product-code-service.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="31128719" />
+          <option name="gitlabProjectId" value="29966052" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="Sustainability Data AWS Stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/sustainability-data-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sustainability-data-aws-stacks.git" />
+          <option name="projectName" value="product-service-v2" />
+          <option name="projectPath" value="dunelm/product/backend-services/product-service-v2" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/product-service-v2.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="26800725" />
+          <option name="gitlabProjectId" value="31458986" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="delivery-promise" />
-          <option name="projectPath" value="dunelm/product/backend-services/delivery-promise" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/delivery-promise.git" />
+          <option name="projectName" value="products-eventbus-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/products-eventbus-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/products-eventbus-aws-stacks.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="29115822" />
+          <option name="gitlabProjectId" value="26934768" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="test-data-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/testing/test-data-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/testing/test-data-aws-stacks.git" />
+          <option name="projectName" value="promotion-service-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/promotion-service-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/promotion-service-aws-stacks.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="33581238" />
+          <option name="gitlabProjectId" value="15404423" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="trade-reporting" />
-          <option name="projectPath" value="dunelm/product/backend-services/trade-reporting" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/trade-reporting.git" />
+          <option name="projectName" value="promotions-service" />
+          <option name="projectPath" value="dunelm/product/backend-services/promotions-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/promotions-service.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="29684778" />
+          <option name="gitlabProjectId" value="27069867" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="Store Calendar Testing" />
-          <option name="projectPath" value="dunelm/product/testing/store-calendar-testing" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/testing/store-calendar-testing.git" />
+          <option name="projectName" value="purchase-orders-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/purchase-orders-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/purchase-orders-aws-stacks.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="24867028" />
+          <option name="gitlabProjectId" value="36974801" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="store-locator-app" />
-          <option name="projectPath" value="dunelm/product/frontend/store-locator-app" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/store-locator-app.git" />
+          <option name="projectName" value="quotes-service" />
+          <option name="projectPath" value="dunelm/product/backend-services/quotes-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/quotes-service.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="31599400" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="redirection-service" />
+          <option name="projectPath" value="dunelm/product/backend-services/redirection-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/redirection-service.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="29251333" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="Report Of Buyability" />
+          <option name="projectPath" value="dunelm/product/backend-services/report-of-buyability" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/report-of-buyability.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="31167186" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="reviews-service" />
+          <option name="projectPath" value="dunelm/product/backend-services/reviews-service" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/reviews-service.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="37319407" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="Salesforce Adapter" />
+          <option name="projectPath" value="dunelm/product/backend-services/salesforce-adapter" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/salesforce-adapter.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="20489095" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="sap automation" />
+          <option name="projectPath" value="dunelm/product/backend-services/sap-automation" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sap-automation.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="35901363" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="SAP AWS Stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/sap-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sap-aws-stacks.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="30410901" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="sap-feed-consumer" />
+          <option name="projectPath" value="dunelm/product/backend-services/sap-feed-consumer" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sap-feed-consumer.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="32271228" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="SAS v2" />
+          <option name="projectPath" value="dunelm/product/backend-services/sas-v2" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sas-v2.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="17426115" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="sas" />
+          <option name="projectPath" value="dunelm/product/backend-services/sas" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sas.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="30637265" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="Search ads Upload Process" />
+          <option name="projectPath" value="dunelm/product/backend-services/search-ads-upload-process" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/search-ads-upload-process.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="30639540" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="seo-system-api" />
+          <option name="projectPath" value="dunelm/product/backend-services/seo-system-api" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/seo-system-api.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="21214234" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="service-structure-poc" />
+          <option name="projectPath" value="dunelm/product/backend-services/service-structure-poc" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/service-structure-poc.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="21294937" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="store-calendar" />
+          <option name="projectPath" value="dunelm/product/backend-services/store-calendar" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/store-calendar.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="15405254" />
@@ -587,18 +559,18 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/storelocator-service-aws-stacks.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="23644449" />
+          <option name="gitlabProjectId" value="31128719" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="wasp-vision" />
-          <option name="projectPath" value="dunelm/product/frontend/wasp-vision" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/wasp-vision.git" />
+          <option name="projectName" value="Sustainability Data AWS Stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/sustainability-data-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sustainability-data-aws-stacks.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="30451569" />
+          <option name="gitlabProjectId" value="33581238" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="web-aggregator-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/web-aggregator-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/web-aggregator-aws-stacks.git" />
+          <option name="projectName" value="trade-reporting" />
+          <option name="projectPath" value="dunelm/product/backend-services/trade-reporting" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/trade-reporting.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="31169194" />
@@ -629,53 +601,11 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/wasp-users.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="27254207" />
+          <option name="gitlabProjectId" value="30451569" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="carrier-management" />
-          <option name="projectPath" value="dunelm/product/backend-services/carrier-management" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/carrier-management.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="32986839" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="Dunelm Trees Service" />
-          <option name="projectPath" value="dunelm/product/backend-services/dunelm-trees-service" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/dunelm-trees-service.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="33955344" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="aptean-file-sftp" />
-          <option name="projectPath" value="dunelm/product/backend-services/aptean-file-sftp" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/aptean-file-sftp.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="21197142" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="consolidation-service" />
-          <option name="projectPath" value="dunelm/product/backend-services/consolidation-service" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/consolidation-service.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="25361936" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="communication-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/communication-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/communication-aws-stacks.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="26792964" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="carrier-events-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/carrier-events-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/carrier-events-aws-stacks.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="21195743" />
-          <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="customer-service-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/customer-service-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/customer-service-aws-stacks.git" />
+          <option name="projectName" value="web-aggregator-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/backend-services/web-aggregator-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/web-aggregator-aws-stacks.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="36099973" />
@@ -685,32 +615,53 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/dunelm-checkout.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="30677699" />
+          <option name="gitlabProjectId" value="27675600" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="Day Of Choice" />
-          <option name="projectPath" value="dunelm/product/backend-services/day-of-choice" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/day-of-choice.git" />
+          <option name="projectName" value="engineering-best-practices" />
+          <option name="projectPath" value="dunelm/product/engineering-best-practices" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/engineering-best-practices.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="31574849" />
+          <option name="gitlabProjectId" value="29096064" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="dunelm-xml-sitemap" />
-          <option name="projectPath" value="dunelm/product/backend-services/dunelm-xml-sitemap" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/dunelm-xml-sitemap.git" />
+          <option name="projectName" value="apollo-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/frontend/apollo-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/apollo-aws-stacks.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="24812094" />
+          <option name="gitlabProjectId" value="21031534" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="algolia-product-aggregator" />
-          <option name="projectPath" value="dunelm/product/backend-services/algolia-product-aggregator" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/algolia-product-aggregator.git" />
+          <option name="projectName" value="Business Web Components" />
+          <option name="projectPath" value="dunelm/product/frontend/business-web-components" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/business-web-components.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="27624758" />
+          <option name="gitlabProjectId" value="15128454" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="customer-details-aggregator-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/customer-details-aggregator-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/customer-details-aggregator-stacks.git" />
+          <option name="projectName" value="content-delivery-application" />
+          <option name="projectPath" value="dunelm/product/frontend/content-delivery-application" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/content-delivery-application.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="22403499" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="dunelm-smoke-playwright" />
+          <option name="projectPath" value="dunelm/product/frontend/dunelm-smoke-playwright" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-smoke-playwright.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="25880511" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="dunelm-smoke-tests" />
+          <option name="projectPath" value="dunelm/product/frontend/dunelm-smoke-tests" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-smoke-tests.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="26449642" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="dunelm-web-documentation" />
+          <option name="projectPath" value="dunelm/product/frontend/dunelm-web-documentation" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-web-documentation.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="25829081" />
@@ -720,81 +671,95 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-web-my-account-login-page.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="33768735" />
+          <option name="gitlabProjectId" value="16295749" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="asps-price-loader" />
-          <option name="projectPath" value="dunelm/product/backend-services/asps-price-loader" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/asps-price-loader.git" />
+          <option name="projectName" value="dunelm-web" />
+          <option name="projectPath" value="dunelm/product/frontend/dunelm-web" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dunelm-web.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="31599400" />
+          <option name="gitlabProjectId" value="30292131" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="redirection-service" />
-          <option name="projectPath" value="dunelm/product/backend-services/redirection-service" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/redirection-service.git" />
+          <option name="projectName" value="dw-static-poc" />
+          <option name="projectPath" value="dunelm/product/frontend/dw-static-poc" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/dw-static-poc.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="29251333" />
+          <option name="gitlabProjectId" value="22176602" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="Report Of Buyability" />
-          <option name="projectPath" value="dunelm/product/backend-services/report-of-buyability" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/report-of-buyability.git" />
+          <option name="projectName" value="email-capture-client" />
+          <option name="projectPath" value="dunelm/product/frontend/email-capture-client" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/email-capture-client.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="37319407" />
+          <option name="gitlabProjectId" value="22176812" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="Salesforce Adapter" />
-          <option name="projectPath" value="dunelm/product/backend-services/salesforce-adapter" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/salesforce-adapter.git" />
+          <option name="projectName" value="email-capture-module" />
+          <option name="projectPath" value="dunelm/product/frontend/email-capture-module" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/email-capture-module.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="20489095" />
+          <option name="gitlabProjectId" value="20221917" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="sap automation" />
-          <option name="projectPath" value="dunelm/product/backend-services/sap-automation" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sap-automation.git" />
+          <option name="projectName" value="enactor-pos-automation" />
+          <option name="projectPath" value="dunelm/product/frontend/enactor-pos-automation" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/enactor-pos-automation.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="15404423" />
+          <option name="gitlabProjectId" value="26771486" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="promotions-service" />
-          <option name="projectPath" value="dunelm/product/backend-services/promotions-service" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/promotions-service.git" />
+          <option name="projectName" value="image-management-client" />
+          <option name="projectPath" value="dunelm/product/frontend/image-management-client" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/image-management-client.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="27069867" />
+          <option name="gitlabProjectId" value="37545021" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="purchase-orders-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/purchase-orders-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/purchase-orders-aws-stacks.git" />
+          <option name="projectName" value="mfe-footer" />
+          <option name="projectPath" value="dunelm/product/frontend/mfe-footer" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-footer.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="36974801" />
+          <option name="gitlabProjectId" value="37282015" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="quotes-service" />
-          <option name="projectPath" value="dunelm/product/backend-services/quotes-service" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/quotes-service.git" />
+          <option name="projectName" value="mfe-header" />
+          <option name="projectPath" value="dunelm/product/frontend/mfe-header" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-header.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="30637265" />
+          <option name="gitlabProjectId" value="32734319" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="Search ads Upload Process" />
-          <option name="projectPath" value="dunelm/product/backend-services/search-ads-upload-process" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/search-ads-upload-process.git" />
+          <option name="projectName" value="mfe-pdp" />
+          <option name="projectPath" value="dunelm/product/frontend/mfe-pdp" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-pdp.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="15247640" />
+          <option name="gitlabProjectId" value="29452407" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="checkout-microservice" />
-          <option name="projectPath" value="dunelm/product/backend-services/checkout-microservice" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/checkout-microservice.git" />
+          <option name="projectName" value="mfe-web-aggregator" />
+          <option name="projectPath" value="dunelm/product/frontend/mfe-web-aggregator" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mfe-web-aggregator.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="30639540" />
+          <option name="gitlabProjectId" value="31144859" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="seo-system-api" />
-          <option name="projectPath" value="dunelm/product/backend-services/seo-system-api" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/seo-system-api.git" />
+          <option name="projectName" value="Dependabot" />
+          <option name="projectPath" value="dunelm/product/frontend/mpos/dependabot" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/mpos/dependabot.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="22863669" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="odin-application" />
+          <option name="projectPath" value="dunelm/product/frontend/odin" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/odin.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="26480679" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="poc-pattern-library" />
+          <option name="projectPath" value="dunelm/product/frontend/poc-pattern-library" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/poc-pattern-library.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="30616700" />
@@ -804,41 +769,77 @@
           <option name="remote" value="git@gitlab.com:dunelm/product/frontend/seo-system-client.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="29778127" />
+          <option name="gitlabProjectId" value="24867028" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="atlas-aws-stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/atlas-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/atlas-aws-stacks.git" />
+          <option name="projectName" value="store-locator-app" />
+          <option name="projectPath" value="dunelm/product/frontend/store-locator-app" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/store-locator-app.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="21214234" />
+          <option name="gitlabProjectId" value="29419033" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="service-structure-poc" />
-          <option name="projectPath" value="dunelm/product/backend-services/service-structure-poc" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/service-structure-poc.git" />
+          <option name="projectName" value="telescope-chrome-extension" />
+          <option name="projectPath" value="dunelm/product/frontend/telescope-chrome-extension" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/telescope-chrome-extension.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="35901363" />
+          <option name="gitlabProjectId" value="23644449" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="SAP AWS Stacks" />
-          <option name="projectPath" value="dunelm/product/backend-services/sap-aws-stacks" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sap-aws-stacks.git" />
+          <option name="projectName" value="wasp-vision" />
+          <option name="projectPath" value="dunelm/product/frontend/wasp-vision" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/frontend/wasp-vision.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="30410901" />
+          <option name="gitlabProjectId" value="25582689" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="sap-feed-consumer" />
-          <option name="projectPath" value="dunelm/product/backend-services/sap-feed-consumer" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sap-feed-consumer.git" />
+          <option name="projectName" value="mpos-api-gateway-deploy" />
+          <option name="projectPath" value="dunelm/product/mpos-api-gateway-deploy" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/mpos-api-gateway-deploy.git" />
         </Mapping>
         <Mapping>
-          <option name="gitlabProjectId" value="17426115" />
+          <option name="gitlabProjectId" value="31240589" />
           <option name="host" value="https://gitlab.com" />
-          <option name="projectName" value="sas" />
-          <option name="projectPath" value="dunelm/product/backend-services/sas" />
-          <option name="remote" value="git@gitlab.com:dunelm/product/backend-services/sas.git" />
+          <option name="projectName" value="Production Planning" />
+          <option name="projectPath" value="dunelm/product/production-planning" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/production-planning.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="28838467" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="dunelm-end-to-end" />
+          <option name="projectPath" value="dunelm/product/testing/dunelm-end-to-end" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/testing/dunelm-end-to-end.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="32150549" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="phoenix-end-to-end" />
+          <option name="projectPath" value="dunelm/product/testing/phoenix-end-to-end" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/testing/phoenix-end-to-end.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="37403291" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="postman-collections" />
+          <option name="projectPath" value="dunelm/product/testing/postman-collections" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/testing/postman-collections.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="29684778" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="Store Calendar Testing" />
+          <option name="projectPath" value="dunelm/product/testing/store-calendar-testing" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/testing/store-calendar-testing.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="29115822" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="test-data-aws-stacks" />
+          <option name="projectPath" value="dunelm/product/testing/test-data-aws-stacks" />
+          <option name="remote" value="git@gitlab.com:dunelm/product/testing/test-data-aws-stacks.git" />
         </Mapping>
       </list>
     </option>
+    <option name="urlOpenerCommand" value="" />
   </component>
 </application>
